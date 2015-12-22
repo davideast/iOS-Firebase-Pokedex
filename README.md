@@ -8,5 +8,7 @@ An example of loading images from base64 encoded strings using Firebase.
 
 Dependencies managed through CocoaPods
 
+```bash
 pod install
 open FirebaseStringImagesTableView.xcworkspace # didn't know what to name it at first
+```
